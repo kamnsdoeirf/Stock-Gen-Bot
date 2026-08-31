@@ -1,7 +1,7 @@
 {
-  "name": "discord-stock-generator-bot",
+  "name": "GEN OF DJ",
   "version": "1.0.0",
-  "description": "Production-ready private stock generator Discord bot built with Discord.js v14",
+  "description": "GEN FROM DJ SCRIPTS",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
